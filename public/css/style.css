@@ -139,6 +139,11 @@ nav .menubtn {
     font-size: 17px;
     font-weight: 600;
 }
+
+a {
+    text-decoration: none;
+}
+
 /* Header content responsive */
 @media screen and (max-width: 980px) {
     .column2 img {

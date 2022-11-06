@@ -122,3 +122,8 @@ body {
 .submit:active {
     background-color: #06b;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
